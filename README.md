@@ -41,8 +41,8 @@
 
 <!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) -->
 <p>
-	<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="450em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
-	<a href="https://readme-jokes.vercel.app"><img width="450em" align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+	<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="420em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
+	<a href="https://readme-jokes.vercel.app"><img width="420em" align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
 <!-- Contribution -->
