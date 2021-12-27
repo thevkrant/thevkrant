@@ -38,12 +38,12 @@
 
 # Languages
 <p align="center">
-	<a href="https://profile.codersrank.io/user/vikrant-v28#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=0,000000,130F40"></a>
+	<a href="https://profile.codersrank.io/user/vikrant-v28#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=ffffff"></a>
 </p>
 
 <!--Dino-->
 
-![dino](https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif)
+<!-- ![dino](https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif) -->
 
 <!--status-->
 <p align="center">
