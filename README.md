@@ -36,6 +36,11 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
+<!-- Jokes -->
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=vikrant-v28&theme=react-dark&hide_border=true&area=true)
+
 # Languages
 <p align="center">
 	<a href="https://profile.codersrank.io/user/vikrant-v28#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=ffffff"></a>
