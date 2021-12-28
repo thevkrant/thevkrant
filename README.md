@@ -64,7 +64,7 @@
 
 <!--status-->
 <p align="center">
-	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" />  </a>
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
+	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="420em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
+	<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
+	<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
 </p>
