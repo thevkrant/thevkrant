@@ -95,8 +95,8 @@
 <!-- Spotify & Jokes -->
 
 <p align="left">
-	<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="420em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
-	<a href="https://readme-jokes.vercel.app"><img width="420em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry" alt="README Jokes"></a>
+	<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="410em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
+	<a href="https://readme-jokes.vercel.app"><img width="410em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry" alt="README Jokes"></a>
 </p>
 
 <!-- Contribution -->
@@ -109,13 +109,11 @@
 
 <!--status-->
 <p align="auto">
-	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="400em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
-	  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
-	  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
-	  <img width="400em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
+	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="410em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
+	  <img width="410em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
+	  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
+	  <img width="410em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
 </p>
-
-<p align="center">
 
 [![GitHub hits](https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&style=flat)](https://github.com/Vikrant-V28) 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Vikrant-V28) 
@@ -124,6 +122,5 @@
 ![vikrant-v28](https://komarev.com/ghpvc/?username=vikrant-v28&label=Profile%20views&color=0e75b6&style=flat) 
 ![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&style=flat&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvikrant-v28&longCache=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&style=flat)
-
+	
 <img src="https://imgur.com/rilHVxA.png"/>
-</p>
