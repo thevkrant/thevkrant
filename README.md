@@ -122,7 +122,7 @@
 	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="410em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
 	  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
 	  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
-	  <img width="400em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
+	  <img width="405em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
 </p>
 
 <!-- Badges -->
@@ -130,9 +130,9 @@
 	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a> 
 	<a href="https://www.linkedin.com/in/vikrant-280399/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
 	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
-	<img src="https://komarev.com/ghpvc/?username=vikrant-v28&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="vikrant-v28"> 
 	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvikrant-v28&amp;longCache=true" alt="GitHub">
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&amp;style=flat" alt="visitors">
 	<a href="https://twitter.com/iamvikrant28"><img src="https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&amp;style=flat" alt="Twitter Follow"></a>
-	<img src="https://imgur.com/rilHVxA.png"/>
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&amp;style=flat" alt="visitors">
+        <p align="right"><img src="https://img.shields.io/badge/Thank-you-lightgrey" alt="Thank you"></p>
+        <img src="https://imgur.com/rilHVxA.png"/>
 </p>
