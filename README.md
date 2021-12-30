@@ -3,20 +3,22 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Vikrant</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat&logo=mailchimp&logoColor=lavenderblush)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat&logo=gravatar&logoColor=silver&color=black)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-Liqvid-success?style=flat-&logo=microgenetics&logoColor=salmon)](https://www.intelliatx.com/crisprcas9/)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Linux)
-[![Code](https://img.shields.io/badge/-code-000000?style=flat&logo=Plex&logoColor=white)](https://github.com/Vikrant-V28?tab=repositories)
-[![shell](https://img.shields.io/badge/-shell-555555?style=flat&logo=PowerShell&logoColor=white)](https://github.com/Vikrant-V28?tab=repositories&language=shell) 
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=38acec)](https://code.visualstudio.com/)
-[![Vikrant](https://img.shields.io/badge/Setup-Vikrant_V28-blue?style=flat&logo=when-i-work&logoColor=springgreen)](https://github.com/Vikrant-V28/Vikrant-V28)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/iam-Vikrant?label=karma&logo=reddit&style=flat)](https://www.reddit.com/user/iam-Vikrant)
-![wechat](https://img.shields.io/static/v1?label=wechat&message=vikrant&color=lightseagreen&logo=wechat)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vikrantchaudhary7300@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:vikrant@liqvid.com)
-[![Awesome GitHub Profile README](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<p align="center">
+	<a href="https://en.wikipedia.org/wiki/Homo_sapiens"><img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat&amp;logo=mailchimp&amp;logoColor=lavenderblush" alt="Species"></a>
+	<a href="https://en.wikipedia.org/wiki/Life"><img src="https://img.shields.io/badge/Status-Stable-success?style=flat&amp;logo=gravatar&amp;logoColor=silver&amp;color=black" alt="Status"></a>
+	<a href="https://www.intelliatx.com/crisprcas9/"><img src="https://img.shields.io/badge/My%20job-Liqvid-success?style=flat-&amp;logo=microgenetics&amp;logoColor=salmon" alt="My job"></a>
+	<a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=blue" alt="OS"></a>
+	<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux" alt="OS"></a>
+	<a href="https://github.com/Vikrant-V28?tab=repositories"><img src="https://img.shields.io/badge/-code-000000?style=flat&amp;logo=Plex&amp;logoColor=white" alt="Code"></a>
+	<a href="https://github.com/Vikrant-V28?tab=repositories&amp;language=shell"><img src="https://img.shields.io/badge/-shell-555555?style=flat&amp;logo=PowerShell&amp;logoColor=white" alt="shell"></a> 
+	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&amp;logo=visual-studio-code&amp;logoColor=38acec" alt="Editor"></a>
+	<a href="https://github.com/Vikrant-V28/Vikrant-V28"><img src="https://img.shields.io/badge/Setup-Vikrant_V28-blue?style=flat&amp;logo=when-i-work&amp;logoColor=springgreen" alt="Vikrant"></a>
+	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/reddit/user-karma/combined/iam-Vikrant?label=karma&amp;logo=reddit&amp;style=flat" alt="Reddit User Karma"></a>
+	<img src="https://img.shields.io/static/v1?label=wechat&amp;message=vikrant&amp;color=lightseagreen&amp;logo=wechat" alt="wechat">
+	<a href="mailto:vikrantchaudhary7300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="mailto:vikrant@liqvid.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&amp;logo=Microsoft-Outlook&amp;logoColor=white" alt="Outlook"></a>
+	<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome GitHub Profile README"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -111,16 +113,17 @@
 <p align="auto">
 	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="410em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
 	  <img width="410em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
-	  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
-	  <img width="410em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
+	  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
+	  <img width="420em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
 </p>
 
-[![GitHub hits](https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&style=flat)](https://github.com/Vikrant-V28) 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Vikrant-V28) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-280399/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&style=social)](https://twitter.com/iamvikrant28)
-![vikrant-v28](https://komarev.com/ghpvc/?username=vikrant-v28&label=Profile%20views&color=0e75b6&style=flat) 
-![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&style=flat&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvikrant-v28&longCache=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&style=flat)
-	
-<img src="https://imgur.com/rilHVxA.png"/>
+<p align="center">
+	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a> 
+	<a href="https://www.linkedin.com/in/vikrant-280399/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
+	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
+	<img src="https://komarev.com/ghpvc/?username=vikrant-v28&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="vikrant-v28"> 
+	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvikrant-v28&amp;longCache=true" alt="GitHub">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&amp;style=flat" alt="visitors">
+	<a href="https://twitter.com/iamvikrant28"><img src="https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&amp;style=flat" alt="Twitter Follow"></a>
+	<img src="https://imgur.com/rilHVxA.png"/>
+</p>
