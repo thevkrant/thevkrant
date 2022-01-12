@@ -13,6 +13,7 @@
 	<a href="https://github.com/Vikrant-V28?tab=repositories"><img src="https://img.shields.io/badge/-code-000000?style=flat&amp;logo=Plex&amp;logoColor=white" alt="Code"></a>
 	<a href="https://github.com/Vikrant-V28?tab=repositories&amp;language=shell"><img src="https://img.shields.io/badge/-shell-555555?style=flat&amp;logo=PowerShell&amp;logoColor=white" alt="shell"></a> 
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&amp;logo=visual-studio-code&amp;logoColor=38acec" alt="Editor"></a>
+	<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/Code_Style-Prettier-ff69b4.svg?style=flat" alt="code style: prettier"></a>
 	<a href="https://github.com/Vikrant-V28/Vikrant-V28"><img src="https://img.shields.io/badge/Setup-Vikrant_V28-blue?style=flat&amp;logo=when-i-work&amp;logoColor=springgreen" alt="Vikrant"></a>
 	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/reddit/user-karma/combined/iam-Vikrant?label=karma&amp;logo=reddit&amp;style=flat" alt="Reddit User Karma"></a>
 	<img src="https://img.shields.io/static/v1?label=wechat&amp;message=vikrant&amp;color=lightseagreen&amp;logo=wechat" alt="wechat">
@@ -121,7 +122,7 @@
 <p align="auto">
 	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="410em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
 	  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
-	  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-v28&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="vikrant-v28" />
+	  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs">
 	  <img width="405em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
 </p>
 
