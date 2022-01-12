@@ -99,7 +99,7 @@
 </p>
 
 <!--Trophy-->
-<p align="center">
+<p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrant-v28&theme=juicyfresh&no-bg=true" alt="vikrant-v28" /></a>
 </p>
 
