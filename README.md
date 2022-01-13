@@ -13,7 +13,7 @@
 	<a href="https://github.com/Vikrant-V28?tab=repositories"><img src="https://img.shields.io/badge/-code-000000?style=flat&amp;logo=Plex&amp;logoColor=white" alt="Code"></a>
 	<a href="https://github.com/Vikrant-V28?tab=repositories&amp;language=shell"><img src="https://img.shields.io/badge/-shell-555555?style=flat&amp;logo=PowerShell&amp;logoColor=white" alt="shell"></a> 
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&amp;logo=visual-studio-code&amp;logoColor=38acec" alt="Editor"></a>
-	<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/Code_Style-Prettier-ff69b4.svg?style=flat" alt="code style: prettier"></a>
+	<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/Code_Style-Prettier-ff69b4.svg?style=flat&logo=Prettier" alt="code style: prettier"></a>
 	<a href="https://github.com/Vikrant-V28/Vikrant-V28"><img src="https://img.shields.io/badge/Setup-Vikrant_V28-blue?style=flat&amp;logo=when-i-work&amp;logoColor=springgreen" alt="Vikrant"></a>
 	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/reddit/user-karma/combined/iam-Vikrant?label=karma&amp;logo=reddit&amp;style=flat" alt="Reddit User Karma"></a>
 	<img src="https://img.shields.io/static/v1?label=wechat&amp;message=vikrant&amp;color=lightseagreen&amp;logo=wechat" alt="wechat">
@@ -134,7 +134,7 @@ View <a href="https://vikrant-v28.github.io/Vikrant-V28/">GitHub's Page</a>
 	<a href="https://www.linkedin.com/in/vikrant-280399/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
 	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
 	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvikrant-v28&amp;longCache=true" alt="GitHub">
-	<a href="https://twitter.com/iamvikrant28"><img src="https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&amp;style=flat" alt="Twitter Follow"></a>
+	<a href="https://twitter.com/iamvikrant28"><img src="https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&amp;style=flat&logo=rss" alt="Twitter Follow"></a>
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&amp;style=flat" alt="visitors">
         <p align="right"><img src="https://img.shields.io/badge/Thank-you-lightgrey" alt="Thank you"></p>
         <img src="https://imgur.com/rilHVxA.png"/>
