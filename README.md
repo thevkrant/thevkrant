@@ -115,7 +115,7 @@
 <!-- Languages chart -->
 # Languages
 <p align="center">
-	<a href="https://profile.codersrank.io/user/vikrant-v28#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=fff"></a>
+	<a href="https://profile.codersrank.io/user/vikrant-v28#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=fff"></a>
 </p>
 
 <!--status-->
