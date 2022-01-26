@@ -145,9 +145,9 @@
 </p>
 
 <!-- git-contribute -->
-<p align="center">
+<!-- <p align="center">
 	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Vikrant-V28&labels=true&legend=true&tooltip=true&branding=false"/>
-</p>
+</p> -->
 <!--status-->
 <p align="auto">
 	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="410em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
