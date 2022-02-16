@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Vikrant</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<!-- <h3 align="center">A passionate Full-Stack developer from India</h3> -->
 
 <!-- Badges -->
 <p align="center">
@@ -141,7 +141,7 @@
 <!-- Languages chart -->
 # Languages
 <p align="center">
-	<a href="https://profile.codersrank.io/user/vikrant-v28#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=false"></a>
+	<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=false">
 </p>
 
 <!-- git-contribute -->
