@@ -169,4 +169,3 @@ View <a href="https://vikrant-v28.github.io/Vikrant-V28/">GitHub's Page</a>
         <img src="https://imgur.com/rilHVxA.png"/>
 </p>
 
-## View more repositories 👇
