@@ -156,8 +156,6 @@
 	  <img width="390em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
 </p>
 
-View <a href="https://vikrant-v28.github.io/Vikrant-V28/">GitHub's Page</a>
-
 <!-- Badges -->
 <p align="center">
 	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
