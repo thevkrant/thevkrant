@@ -149,7 +149,7 @@
 	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Vikrant-V28&labels=true&legend=true&tooltip=true&branding=false"/>
 </p> -->
 <!--status-->
-<p align="auto">
+<p align="center">
 	<img width="auto" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark" /></a>
 	<img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=dark" alt="vikrant-v28" />
 	<img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
