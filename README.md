@@ -151,7 +151,7 @@
 <!--status-->
 <div align="auto">
 	<p align="left">
-		<img alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark"/></a>
+		<img alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark"/>
 		<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
 	</p>
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=dark" alt="vikrant-v28"/></p>
