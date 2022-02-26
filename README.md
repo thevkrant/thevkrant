@@ -150,10 +150,10 @@
 </p> -->
 <!--status-->
 <p align="auto">
-	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img width="410em" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=github-dark" /></a>
-	  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=tokyonight" alt="vikrant-v28" />
-	  <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs">
-	  <img width="390em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino">
+	<img width="auto" alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark" /></a>
+	<img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=dark" alt="vikrant-v28" />
+	<img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
+<!-- <img width="390em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino"> -->
 </p>
 
 <!-- Badges -->
