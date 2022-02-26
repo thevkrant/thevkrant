@@ -150,9 +150,9 @@
 </p> -->
 <!--status-->
 <p align="auto">
-	<img alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark" width="450em" hight="500em"/></a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs" width="400em">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=dark" alt="vikrant-v28" width="450em" hight="450em" />
+	<img alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark"/></a>
+	<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=dark" alt="vikrant-v28"/>
 <!-- <img width="390em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino"> -->
 </p>
 
