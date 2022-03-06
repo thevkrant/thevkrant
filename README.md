@@ -12,8 +12,8 @@
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 	<img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat&logo=Brave&logoColor=white" alt="Brave">
-	<a href="https://github.com/Vikrant-V28?tab=repositories"><img src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white" alt="Code"></a>
-	<a href="https://github.com/Vikrant-V28?tab=repositories&language=shell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white" alt="PowerShell"></a>
+	<a href="https://github.com/thevkrant?tab=repositories"><img src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white" alt="Code"></a>
+	<a href="https://github.com/thevkrant?tab=repositories&language=shell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white" alt="PowerShell"></a>
 	<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white" alt="Windows-Terminal">
 	<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black" alt="Notepad++">
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-38acec?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
@@ -32,7 +32,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
-	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+	<a href="https://github.com/thevkrant"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
 	<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white" alt="Sololearn">
 	<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white" alt="Canva">
@@ -56,7 +56,7 @@
 <!-- Connections -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://github.com/Vikrant-V28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vikrant-V28" height="30" width="40" /></a>
+	<a href="https://github.com/thevkrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thevkrant" height="30" width="40" /></a>
 	<a href="https://twitter.com/iamvikrant28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvikrant28" height="30" width="40" /></a>
 	<a href="https://www.linkedin.com/in/vikrant-280399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikrant-280399" height="30" width="40" /></a>
 	<a href="https://discord.com/channels/@Vikrant#9333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="40" width="40" /></a>
@@ -136,34 +136,34 @@
 </p>
 
 <!-- Contribution -->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=vikrant-v28&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=thevkrant&theme=react-dark&hide_border=true&area=true)
 
 <!-- Languages chart -->
 # Languages
 <p align="center">
-	<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vikrant-v28&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=false">
+	<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thevkrant&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=false">
 </p>
 
 <!-- git-contribute -->
 <!-- <p align="center">
-	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Vikrant-V28&labels=true&legend=true&tooltip=true&branding=false"/>
+	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=thevkrant&labels=true&legend=true&tooltip=true&branding=false"/>
 </p> -->
 <!--status-->
 <div align="auto">
 	<p align="left">
-		<img alt="vikrant-v28's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vikrant-v28?cardType=github&theme=dark"/>
-		<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-v28&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
+		<img alt="Vikrant's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/thevkrant?cardType=github&theme=dark"/>
+		<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevkrant&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
 	</p>
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-v28&theme=dark" alt="vikrant-v28"/></p>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thevkrant&theme=dark" alt="thevkrant"/></p>
 <!-- <img width="390em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino"> -->
 </div>
 
 <!-- Badges -->
 <p align="center">
-	<a href="https://github.com/Vikrant-V28"><img src="https://img.shields.io/github/last-commit/Vikrant-V28/Vikrant-V28?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
-	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvikrant-v28&amp;longCache=true" alt="GitHub">
+	<a href="https://github.com/thevkrant"><img src="https://img.shields.io/github/last-commit/thevkrant/thevkrant?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
+	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthevkrant&amp;longCache=true" alt="GitHub">
 	<a href="https://twitter.com/iamvikrant28"><img src="https://img.shields.io/twitter/follow/iamvikrant28?label=Follow&amp;style=flat&logo=rss" alt="Twitter Follow"></a>
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=vikrant-v28.vikrant-v28&amp;style=flat" alt="visitors">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=thevkrant.thevkrant&amp;style=flat" alt="visitors">
 	 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome GitHub Profile README"></a>
         <p align="right"><img src="https://custom-icon-badges.herokuapp.com/badge/Thank-you-pink.svg?logo=heart-fill&logoColor=pink"></p>
         <img src="https://imgur.com/rilHVxA.png"/>
