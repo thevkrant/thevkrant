@@ -139,10 +139,10 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=thevkrant&theme=react-dark&hide_border=true&area=true)
 
 <!-- Languages chart -->
-# Languages
+<!-- # Languages
 <p align="center">
 	<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thevkrant&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=false">
-</p>
+</p> -->
 
 <!-- git-contribute -->
 <!-- <p align="center">
