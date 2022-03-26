@@ -1,7 +1,8 @@
 <!-- @format -->
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Vikrant</h1>
-<!-- <h3 align="center">A passionate Full-Stack developer from India</h3> -->
+
+<!-- ![Metrics](https://metrics.lecoq.io/thevkrant?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta) -->
 
 <!-- Badges -->
 <p align="center">
@@ -31,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
+	<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
 	<a href="https://github.com/thevkrant"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
 	<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white" alt="Sololearn">
@@ -138,16 +139,7 @@
 <!-- Contribution -->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=thevkrant&theme=react-dark&hide_border=true&area=true)
 
-<!-- Languages chart -->
-<!-- # Languages
-<p align="center">
-	<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thevkrant&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&bg=false">
-</p> -->
 
-<!-- git-contribute -->
-<!-- <p align="center">
-	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=thevkrant&labels=true&legend=true&tooltip=true&branding=false"/>
-</p> -->
 <!--status-->
 <div align="auto">
 	<p align="left">
@@ -155,7 +147,6 @@
 		<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevkrant&locale=en&&layout=compact&theme=dark&langs_count=8" alt="Top Langs">
 	</p>
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thevkrant&theme=dark" alt="thevkrant"/></p>
-<!-- <img width="390em" align="left" src="https://user-images.githubusercontent.com/85709371/128565402-c69e4ea1-00f0-4a60-a690-1eeca9ad684d.gif" alt="dino"> -->
 </div>
 
 <!-- Badges -->
@@ -166,5 +157,4 @@
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=thevkrant.thevkrant&amp;style=flat" alt="visitors">
 	 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome GitHub Profile README"></a>
         <p align="right"><img src="https://custom-icon-badges.herokuapp.com/badge/Thank-you-pink.svg?logo=heart-fill&logoColor=pink"></p>
-        <img src="https://imgur.com/rilHVxA.png"/>
 </p>
