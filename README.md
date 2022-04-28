@@ -16,8 +16,6 @@
 	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen">
 	<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/Prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E" alt="Prettier"></a>
 	<img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" alt="Xampp">
-</p>
-<p align="center">
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
 	<a href="https://github.com/thevkrant"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
@@ -25,8 +23,6 @@
 	<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack-Overflow">
 	<img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
 	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit"></a>
-	<a href="mailto:vikrantchaudhary7300@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-	<img src="https://img.shields.io/badge/Skype-blue?style=flat&logo=skype&logoColor=white" alt="Skype">
 </p>
 
 <!-- Connections -->
