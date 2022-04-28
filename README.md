@@ -1,8 +1,7 @@
-<!-- @format -->
-
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Vikrant</h1>
 
-<!-- Badges -->
+**<!-- Badges -->**
+
 <p align="center">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
@@ -22,7 +21,8 @@
 	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
 
-<!-- Connections -->
+**<!-- Connections -->**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://github.com/thevkrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thevkrant" height="30" width="40" /></a>
@@ -33,7 +33,8 @@
 	<a href="https://dev.to/vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.vk" height="30" width="40" /></a>
 </p>
 
-<!-- Languages and Tools -->
+**<!-- Languages and Tools -->**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <h4>Programming Languages</h4>
@@ -45,7 +46,8 @@
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-<!-- Frontend Development -->
+**<!-- Frontend Development -->**
+
 <h4>Frontend Development</h4>
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -57,7 +59,8 @@
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-<!-- Backend Development & BaaS -->
+**<!-- Backend Development & BaaS -->**
+
 <h4>Backend Development & BaaS</h4>
 <p align="left">
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
@@ -65,7 +68,8 @@
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 
-<!-- Python Frameworks and libraries -->
+**<!-- Python Frameworks and libraries -->**
+
 <h4>AI/ML Frameworks</h4>
 <p align="left">
 	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -75,7 +79,8 @@
 	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 </p>
 
-<!-- Mobile App Development -->
+**<!-- Mobile App Development -->**
+
 <h4>Mobile App Development</h4>
 <p align="left">
 	<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
@@ -83,14 +88,16 @@
 	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 </p>
 
-<!-- Database -->
+**<!-- Database -->**
+
 <h4>Database</h4>
 <p align="left">
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 </p>
 
-<!-- Other -->
+**<!-- Other -->**
+
 <p align="left">
 <h4>Other</h4>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
@@ -98,17 +105,19 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<!-- Spotify & Jokes -->
+**<!-- Spotify & Jokes -->**
+
 <p align="left">
 	<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="410em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
 	<a href="https://readme-jokes.vercel.app"><img width="410em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry" alt="README Jokes"></a>
 </p>
 
-<!-- Contribution -->
+**<!-- Contribution -->**
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=thevkrant&theme=react-dark&hide_border=true&area=true)
 
+**<!--status-->**
 
-<!--status-->
 <div align="auto">
 	<p align="left">
 		<img alt="Vikrant's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/thevkrant?cardType=github&theme=dark"/>
@@ -117,7 +126,8 @@
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thevkrant&theme=dark" alt="thevkrant"/></p>
 </div>
 
-<!-- Badges -->
+**<!-- Badges -->**
+
 <p align="center">
 	<a href="https://github.com/thevkrant"><img src="https://img.shields.io/github/last-commit/thevkrant/thevkrant?label=Profile%20Updated&amp;style=flat" alt="GitHub hits"></a>
 	<img src="https://img.shields.io/badge/dynamic/json?logo=github&amp;label=GitHub+Followers&amp;labelColor=282c34&amp;color=181717&amp;style=flat&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthevkrant&amp;longCache=true" alt="GitHub">
