@@ -10,12 +10,11 @@
 	<a href="https://github.com/thevkrant?tab=repositories&language=shell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white" alt="PowerShell"></a>
 	<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white" alt="Windows-Terminal">
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-38acec?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
-	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
-	<a href="https://codepen.io/thevkrant"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
-	<img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" alt="Xampp">
+	<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
 	<a href="https://www.sololearn.com/profile/20102519"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white" alt="Sololearn"></a>
+	<a href="https://codepen.io/thevkrant"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
 	<a href="https://stackoverflow.com/users/18971825/vikrant?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack-Overflow"></a>
 	<img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
 	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit"></a>
