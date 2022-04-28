@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
 	<a href="https://www.sololearn.com/profile/20102519"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white" alt="Sololearn"></a>
-	<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack-Overflow">
+	<a href="https://stackoverflow.com/users/18971825/vikrant?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack-Overflow"></a>
 	<img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
 	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
