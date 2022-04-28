@@ -5,7 +5,6 @@
 <!-- Badges -->
 <p align="center">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 	<img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat&logo=Brave&logoColor=white" alt="Brave">
 	<a href="https://github.com/thevkrant?tab=repositories"><img src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white" alt="Code"></a>
@@ -13,7 +12,7 @@
 	<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white" alt="Windows-Terminal">
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-38acec?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
-	<a href="https://www.reddit.com/user/iam-Vikrant"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
+	<a href="https://codepen.io/thevkrant"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
 	<img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" alt="Xampp">
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="GIT">
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
