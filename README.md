@@ -19,15 +19,15 @@
 **<!-- Socials -->**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://github.com/thevkrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thevkrant" height="30" width="40" /></a>
-	<a href="https://twitter.com/iamvikrant28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvikrant28" height="30" width="40" /></a>
-	<a href="https://www.linkedin.com/in/vikrant-280399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikrant-280399" height="30" width="40" /></a>
-	<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18971825/vikrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18971825/vikrant" height="30" width="40" /></a>
-	<a href="https://dev.to/vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.vk" height="30" width="40" /></a>
-	<a href="https://codepen.io/https://codepen.io/thevkrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/thevkrant" height="30" width="40" /></a>
-	<a href="https://discord.com/channels/@Vikrant#9333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="40" width="40" /></a>
-	<a href="https://www.hackerrank.com/vikrant_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vikrant_28" height="30" width="40" /></a>
+<p align="left"> 
+	<a href="https://www.github.com/thevkrant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+	<a href="https://www.twitter.com/iamvikrant28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+	<a href="https://hashnode.com/@thevikrant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+	<a href="https://www.linkedin.com/in/vikrant-280399" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+	<a href="https://www.dev.to/vk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+	<a href="https://discord.com/users/Vikrant#9333" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+	<a href="https://www.codepen.io/thevkrant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+	<a href="https://www.stackoverflow.com/users/18971825/vikrant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
 </p>
 
 **<!-- Languages and Tools -->**
