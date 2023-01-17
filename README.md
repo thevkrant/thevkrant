@@ -70,19 +70,19 @@
 **<!-- Spotify & Jokes -->**
 
 <p align="left">
-<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="415em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
-<a href="https://readme-jokes.vercel.app"><img width="410em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry" alt="README Jokes"></a>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a>
+	<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="420em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
+	<img width="410em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry">
+	<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
 **<!-- GitHub Contribution -->**
 
-<a href="http://www.github.com/thevkrant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thevkrant&custom_title=Vikrant's%20GitHub%20Contributions%20Graph&hide_border=true&theme=github-compact" alt="github commits graph" /></a>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=thevkrant&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=thevkrant&theme=dark&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thevkrant&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
+<p align="left">
+	<a href="http://www.github.com/thevkrant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thevkrant&custom_title=Vikrant's%20GitHub%20Contributions%20Graph&hide_border=true&theme=github-compact" alt="graph" /></a>
+	<a href="http://www.github.com/thevkrant"><img src="https://github-readme-stats.vercel.app/api?username=thevkrant&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="commits" /></a>
+	<a href="http://www.github.com/thevkrant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thevkrant&theme=dark&hide_border=true" alt="commits" /></a>
+	<a href="http://www.github.com/thevkrant"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevkrant&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="commits" /></a>
+</p>
 **<!-- Badges -->**
 
 <p align="center">
