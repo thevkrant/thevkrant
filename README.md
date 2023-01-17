@@ -70,8 +70,8 @@
 **<!-- Spotify & Jokes -->**
 
 <p align="left">
-<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="410em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
-<a href="https://readme-jokes.vercel.app"><img width="415em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry" alt="README Jokes"></a>
+<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img width="415em" src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
+<a href="https://readme-jokes.vercel.app"><img width="410em" align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry" alt="README Jokes"></a>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a>
 </p>
 
